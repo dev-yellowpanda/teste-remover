@@ -1,0 +1,13 @@
+{
+    "name": "games.yellowpanda.teste",
+    "author": "Yellow Panda",
+    "displayName": "Teste Remover",
+    "version": "1.0.0",
+    "unity": "6000.0",
+    "keywords": [],
+    "description": "Teste Remover depois",
+    "samples": [],
+	"dependencies": {
+		"com.unity.nuget.newtonsoft-json": "3.2.1"
+	}
+}
